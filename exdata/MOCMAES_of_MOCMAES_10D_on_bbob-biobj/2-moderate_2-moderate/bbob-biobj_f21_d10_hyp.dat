@@ -1,0 +1,92 @@
+%
+% index = 2775, name = bbob_f006_i02_d10__bbob_f008_i04_d10
+% instance = 1, reference value = 9.939803994827000e-01
+% function evaluation | indicator value | target hit
+1	4.866343718993529e-01	4.897788193684462e-01
+5101	4.866343718993529e-01	4.897788193684462e-01
+%
+% index = 2776, name = bbob_f006_i03_d10__bbob_f008_i05_d10
+% instance = 2, reference value = 9.973014950414590e-01
+% function evaluation | indicator value | target hit
+1	3.875330266694518e-01	3.890451449942806e-01
+5101	3.875330266694518e-01	3.890451449942806e-01
+%
+% index = 2777, name = bbob_f006_i07_d10__bbob_f008_i08_d10
+% instance = 3, reference value = 9.984537988237711e-01
+% function evaluation | indicator value | target hit
+1	5.726894361975720e-01	5.754399373371569e-01
+5101	5.726894361975720e-01	5.754399373371569e-01
+%
+% index = 2778, name = bbob_f006_i09_d10__bbob_f008_i10_d10
+% instance = 4, reference value = 9.043344424602240e-01
+% function evaluation | indicator value | target hit
+1	7.667663104893976e-01	7.762471166286917e-01
+5101	7.667663104893976e-01	7.762471166286917e-01
+%
+% index = 2779, name = bbob_f006_i11_d10__bbob_f008_i12_d10
+% instance = 5, reference value = 9.580855103725210e-01
+% function evaluation | indicator value | target hit
+1	8.791929131207815e-01	8.912509381337456e-01
+5101	8.791929131207815e-01	8.912509381337456e-01
+%
+% index = 2780, name = bbob_f006_i13_d10__bbob_f008_i14_d10
+% instance = 6, reference value = 9.931214954439030e-01
+% function evaluation | indicator value | target hit
+1	1.135731411269903e+00	1.148153621496883e+00
+5101	1.135731411269903e+00	1.148153621496883e+00
+%
+% index = 2781, name = bbob_f006_i15_d10__bbob_f008_i16_d10
+% instance = 7, reference value = 9.976719669937140e-01
+% function evaluation | indicator value | target hit
+1	1.200743943918714e+00	1.202264434617413e+00
+5101	1.200743943918714e+00	1.202264434617413e+00
+%
+% index = 2782, name = bbob_f006_i17_d10__bbob_f008_i18_d10
+% instance = 8, reference value = 9.969327281637470e-01
+% function evaluation | indicator value | target hit
+1	3.230374503159747e+00	3.235936569296283e+00
+5101	3.230374503159747e+00	3.235936569296283e+00
+%
+% index = 2783, name = bbob_f006_i19_d10__bbob_f008_i21_d10
+% instance = 9, reference value = 9.811067414451440e-01
+% function evaluation | indicator value | target hit
+1	1.023738555838144e+00	1.047128548050900e+00
+5101	1.023738555838144e+00	1.047128548050900e+00
+%
+% index = 2784, name = bbob_f006_i21_d10__bbob_f008_i22_d10
+% instance = 10, reference value = 9.772753038986970e-01
+% function evaluation | indicator value | target hit
+1	4.538163410068989e-01	4.570881896148750e-01
+5101	4.538163410068989e-01	4.570881896148750e-01
+%
+% index = 2785, name = bbob_f006_i23_d10__bbob_f008_i24_d10
+% instance = 11, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	5.099351236740151e-01	5.128613839913648e-01
+5101	5.099351236740151e-01	5.128613839913648e-01
+%
+% index = 2786, name = bbob_f006_i25_d10__bbob_f008_i26_d10
+% instance = 12, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	5.475734731702855e-01	5.495408738576245e-01
+5101	5.475734731702855e-01	5.495408738576245e-01
+%
+% index = 2787, name = bbob_f006_i27_d10__bbob_f008_i28_d10
+% instance = 13, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	6.745775001303479e-01	6.760829753919817e-01
+60	5.868908371506104e-01	5.888436553555889e-01
+204	5.734769192392368e-01	5.754399373371569e-01
+5101	5.728684538886709e-01	5.754399373371569e-01
+%
+% index = 2788, name = bbob_f006_i29_d10__bbob_f008_i30_d10
+% instance = 14, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	1.309407157602500e+00	1.318256738556407e+00
+5101	1.309407157602500e+00	1.318256738556407e+00
+%
+% index = 2789, name = bbob_f006_i31_d10__bbob_f008_i34_d10
+% instance = 15, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	1.031628862896000e+00	1.047128548050900e+00
+5101	1.031628862896000e+00	1.047128548050900e+00

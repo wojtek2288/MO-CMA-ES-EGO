@@ -1,0 +1,91 @@
+%
+% index = 3195, name = bbob_f015_i02_d10__bbob_f021_i04_d10
+% instance = 1, reference value = 9.246911433080510e-01
+% function evaluation | indicator value | target hit
+1	9.209797227106830e-01	9.332543007969910e-01
+5101	9.209797227106830e-01	9.332543007969910e-01
+%
+% index = 3196, name = bbob_f015_i03_d10__bbob_f021_i05_d10
+% instance = 2, reference value = 8.501336957020200e-01
+% function evaluation | indicator value | target hit
+1	2.221521864303020e+00	2.238721138568339e+00
+5101	2.221521864303020e+00	2.238721138568339e+00
+%
+% index = 3197, name = bbob_f015_i07_d10__bbob_f021_i08_d10
+% instance = 3, reference value = 9.282495103066351e-01
+% function evaluation | indicator value | target hit
+1	8.458078344595783e-01	8.511380382023764e-01
+5101	8.458078344595783e-01	8.511380382023764e-01
+%
+% index = 3198, name = bbob_f015_i09_d10__bbob_f021_i10_d10
+% instance = 4, reference value = 8.790635745208050e-01
+% function evaluation | indicator value | target hit
+1	8.642693263283967e-01	8.709635899560807e-01
+5101	8.642693263283967e-01	8.709635899560807e-01
+%
+% index = 3199, name = bbob_f015_i11_d10__bbob_f021_i12_d10
+% instance = 5, reference value = 8.763061372368960e-01
+% function evaluation | indicator value | target hit
+1	8.234838656150091e-01	8.317637711026710e-01
+5101	8.234838656150091e-01	8.317637711026710e-01
+%
+% index = 3200, name = bbob_f015_i13_d10__bbob_f021_i14_d10
+% instance = 6, reference value = 9.601461564928490e-01
+% function evaluation | indicator value | target hit
+1	8.581626338999434e-01	8.709635899560807e-01
+5101	8.581626338999434e-01	8.709635899560807e-01
+%
+% index = 3201, name = bbob_f015_i15_d10__bbob_f021_i16_d10
+% instance = 7, reference value = 9.496186926712810e-01
+% function evaluation | indicator value | target hit
+1	1.419990488794281e+00	1.445439770745927e+00
+5101	1.419990488794281e+00	1.445439770745927e+00
+%
+% index = 3202, name = bbob_f015_i17_d10__bbob_f021_i18_d10
+% instance = 8, reference value = 9.519435129431790e-01
+% function evaluation | indicator value | target hit
+1	9.092474163076755e-01	9.120108393559098e-01
+202	8.892944008933215e-01	8.912509381337456e-01
+5101	8.892805568723439e-01	8.912509381337456e-01
+%
+% index = 3203, name = bbob_f015_i19_d10__bbob_f021_i21_d10
+% instance = 9, reference value = 9.198465443312730e-01
+% function evaluation | indicator value | target hit
+1	6.137413503920939e-01	6.165950018614822e-01
+5101	6.137413503920939e-01	6.165950018614822e-01
+%
+% index = 3204, name = bbob_f015_i21_d10__bbob_f021_i22_d10
+% instance = 10, reference value = 9.711012075630380e-01
+% function evaluation | indicator value | target hit
+1	8.841315474536868e-01	8.912509381337456e-01
+5101	8.841315474536868e-01	8.912509381337456e-01
+%
+% index = 3205, name = bbob_f015_i23_d10__bbob_f021_i24_d10
+% instance = 11, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	1.061313688897500e+00	1.071519305237606e+00
+5101	1.061313688897500e+00	1.071519305237606e+00
+%
+% index = 3206, name = bbob_f015_i25_d10__bbob_f021_i26_d10
+% instance = 12, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	9.750390987161214e-01	9.772372209558107e-01
+5101	9.750390987161214e-01	9.772372209558107e-01
+%
+% index = 3207, name = bbob_f015_i27_d10__bbob_f021_i28_d10
+% instance = 13, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	9.033312599757291e-01	9.120108393559098e-01
+5101	9.033312599757291e-01	9.120108393559098e-01
+%
+% index = 3208, name = bbob_f015_i29_d10__bbob_f021_i30_d10
+% instance = 14, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	1.178401022286500e+00	1.202264434617413e+00
+5101	1.178401022286500e+00	1.202264434617413e+00
+%
+% index = 3209, name = bbob_f015_i31_d10__bbob_f021_i34_d10
+% instance = 15, reference value = 1.000000000000000e+00
+% function evaluation | indicator value | target hit
+1	1.109848084123000e+00	1.122018454301963e+00
+5101	1.109848084123000e+00	1.122018454301963e+00
